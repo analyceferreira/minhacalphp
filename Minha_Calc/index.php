@@ -16,11 +16,8 @@
 	Valor2: <input type="text" name="val2">
 	
 	<p></p>
-	<button>Calcular</button>
-</form>
-<?php
-	require_once "funcao.php";
+	<input type="submit" name="botCalcular" value="Calcular" />
 	
-?>
+</form>
 </body>
 </html>
